@@ -38,7 +38,7 @@ The analysis spans data cleaning, exploratory data analysis (EDA), hypothesis te
 ## 🗂️ Repository Structure
 
 ```
-flipkart-customer-retention-analysis/
+Flipkart_customer_retention_analysis_using_Excel/
 │
 ├── 📄 README.md
 │
