@@ -44,8 +44,8 @@ flipkart-customer-retention-analysis/
 │
 ├── 📁 Data/
 │   ├── flipkart_raw_dataset.csv                              # Original raw customer call data
-│   ├── cleaned_customer_data.xlsx                            # Cleaned dataset (base)
-│   └── cleaned_data_with_csat_sentiment.xlsx                 # Cleaned data with CSAT + sentiment
+│   ├── Flipkart_Customers_cleaned_data.xlsx                            # Cleaned dataset (base)
+│   └── Customer_data_with_CSAT_and _sentiment.xlsx                 # Cleaned data with CSAT + sentiment
 │
 ├── 📊 Milestone_01_Flipkart_customer_retention_analysis.xlsx # Main analysis workbook
 │
