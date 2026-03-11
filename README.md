@@ -47,13 +47,13 @@ Flipkart_customer_retention_analysis_using_Excel/
 │   ├── Flipkart_Customers_cleaned_data.xlsx                            # Cleaned dataset (base)
 │   └── Customer_data_with_CSAT_and _sentiment.xlsx                 # Cleaned data with CSAT + sentiment
 │
-├── 📊 Milestone_01_Flipkart_customer_retntion_analysis_using_excel_.xlsx # Main analysis workbook
+├── 📊 Milestone_01_Flipkart_customer_retntion_analysis_using_excel_.xlsx       # Main analysis workbook
 │
-├── 📑 Data_Cleaning_and_Processing_Steps.pdf                 # Step-by-step data cleaning documentation
+├── 📑 Data_Cleaning_and_Processing_Steps.pdf                    # Step-by-step data cleaning documentation
 │
-├── 📊 Dashboard.png                                           #Final Dashboard Insights
+├── 📊 Dashboard.png                                              #Final Dashboard Insights
 │
-└── 📋 Flipkart_Customer_Service_Analysis_Presentation.pptx  # Final presentation
+└── 📋 Flipkart_Customer_Service_Analysis_Presentation.pptx        # Final presentation
 ```
 
 ---
