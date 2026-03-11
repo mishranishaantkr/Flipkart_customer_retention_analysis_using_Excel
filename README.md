@@ -252,7 +252,8 @@ Implementing the prioritized recommendations will improve CSAT scores, reduce ch
 ## 👤 Author
 
 **Nishant Kumar Mishra**  
-Data Analysis | Excel | Business Intelligence
+Data Analyst | Excel | Business Intelligence | EDA ( Exploratory Data Analysis ) 
+
 
 ---
 
