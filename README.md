@@ -248,6 +248,13 @@ Implementing the prioritized recommendations will improve CSAT scores, reduce ch
 5. Open the **PPTX** for the executive narrative and recommendations
 
 ---
+![Dashboard](https://github.com/mishranishaantkr/Flipkart_customer_retention_analysis_using_Excel/blob/main/Dashboard.png?raw=true)
+
+
+
+
+
+
 
 ## 👤 Author
 
