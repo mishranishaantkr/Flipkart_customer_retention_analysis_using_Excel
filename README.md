@@ -190,8 +190,8 @@ CSAT climbs Jan → May, then **drops sharply in June** — possible operational
 
 | Priority | Action | Business Impact |
 |----------|--------|-----------------|
-| 🔴 HIGH | **Fix Billing Processes** — Dedicated billing team, self-service portal, real-time invoice transparency | Directly addresses 6,934 negative cases |
-| 🔴 HIGH | **Revamp Chatbot Quality** — Improved NLP models, auto-escalation to human agents on negative sentiment | Lifts lowest CSAT channel from 5.46 |
+| 🔴HIGH | **Fix Billing Processes** — Dedicated billing team, self-service portal, real-time invoice transparency | Directly addresses 6,934 negative cases |
+| 🔴HIGH | **Revamp Chatbot Quality** — Improved NLP models, auto-escalation to human agents on negative sentiment | Lifts lowest CSAT channel from 5.46 |
 | 🟡 MED | **Improve Kolkata Center** — Quality audits, targeted upskilling, KPIs benchmarked to Chennai's 5.63 | Baseline quality parity across centers |
 | 🟡 MED | **Redesign SLA Targets** — Shift from speed-first to quality-first response design | Better resolution quality, less churn |
 | 🟢 LOW | **Seasonal Surge Planning** — June operational playbooks: extra staffing, proactive billing reminders | Prevent predictable annual June dip |
